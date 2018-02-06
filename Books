@@ -204,7 +204,7 @@
         -moz-appearance: none !important;
     }
     .tabbrowser-tab[selected="true"] .tab-stack {
-        background: #54838E !important; color: #fff !important;
+        background: #1a1e21 !important; color: #54838E !important;
         border-radius: 0px !important; position: relative !important;
         /*border-top: 1px solid #dc52a5 !important;/**/
     }
@@ -310,3 +310,5 @@ toolbarbutton#new-tab-button {
     box-shadow: none !important;
     transition-duration: 1ms !important;
 }
+
+
